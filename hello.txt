@@ -1,1 +1,1 @@
-"Hello This is another conflicting change in master on GitHub" 
+hello this is the edited wnt to merge this
